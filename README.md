@@ -15,3 +15,11 @@ ARRAY LIST
 
 4. ArrayList Operations:
   - Write a program that adds 100 random integers to an ArrayList. Then, calculate the sum, average, maximum, and minimum values using methods like stream() and reduce.
+
+HASH MAP
+
+5. Word Frequency Counter:
+  - Create a method that creates a String and returns a HashMap<String, Integer> where the keys are words from the String, and the values are the frequencies of those words.
+
+6. Employee Database:
+  - Create a HashMap<Integer, Employee> where the key is the Employee ID and the value is an Employee object. Implement methods to add, remove, and retrieve employees by their ID.
