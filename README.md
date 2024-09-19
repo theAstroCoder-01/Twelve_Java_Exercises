@@ -23,3 +23,11 @@ HASH MAP
 
 6. Employee Database:
   - Create a HashMap<Integer, Employee> where the key is the Employee ID and the value is an Employee object. Implement methods to add, remove, and retrieve employees by their ID.
+
+TREE MAP
+
+7. Phone Directory:
+  - Implement a phone directory using TreeMap<String, String> where the key is the person's name and the value is their phone number. Ensure the name are sorted in natural order.
+
+8. Student Grades:
+  - Write a program that stores students' names and their grades in a TreeMap<String, Integer>. Add amethod to display all students and their grades in alphabetical order.
