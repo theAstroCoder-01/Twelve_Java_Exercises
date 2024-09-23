@@ -31,3 +31,11 @@ TREE MAP
 
 8. Student Grades:
   - Write a program that stores students' names and their grades in a TreeMap<String, Integer>. Add amethod to display all students and their grades in alphabetical order.
+
+THREAD 
+
+9. Multi-threaded Sum Calculation:
+  - Create a program that divides an array of integers into two parts and uses and uses two threads to calculate the sum of each part. Then, combine the results in the main thread.
+
+10. Thread Syncronization:
+  - Write a program with a shared counter variable. Create two threads: one increments the counter, and the other decrements it. Use synchronization to prevent race conditions.
