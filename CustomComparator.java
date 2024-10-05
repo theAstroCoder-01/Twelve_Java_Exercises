@@ -30,7 +30,7 @@ public class CustomComparator {
 			people.add(new Person("Bob", 31));
 			people.add(new Person("Charlie", 32));
 			
-		// Sorting by age using lambda
+			// Sorting by age using lambda
 			people.sort(Comparator.comparingInt(p -> p.age));
 			
 			System.out.println("Sorted by Age: " + people);
