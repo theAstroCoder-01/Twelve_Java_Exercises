@@ -10,7 +10,6 @@ public class FilteringAndSorting {
 		List<Integer> numbers = List.of(1, 2, 3, 4, 5, 6, 7, 8, 9);
 		
 		// Filtering even numbers and sorting in descending order
-		
 		List<Integer> result = numbers.stream()
 		
 				.filter(n -> n % 2 == 0)
